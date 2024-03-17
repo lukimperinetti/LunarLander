@@ -2,6 +2,7 @@
     "Lua.diagnostics.globals": [
         "love",
         "screenW",
-        "screenH"
+        "screenH",
+        "Lander"
     ]
 }
